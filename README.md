@@ -1,4 +1,4 @@
-Ce projet a pour but d'expérimenter avec la création d'un bot discord et d'intéragir avec une API.
+Ce projet avait pour but d'expérimenter avec la création d'un bot discord et d'intéragir avec une API.
 
 Objectif du bot : 
  - Alerter lorsqu'un streamer est en live
